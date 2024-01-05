@@ -55563,7 +55563,7 @@ case 1:return A.F(p,r)}})
 return A.H($async$pV,r)}}
 A.SL.prototype={}
 A.qM.prototype={
-aq(){return new A.Gn(A.a(["images/img0.jpg","images/img1.jpg","videos/vid0.mp4"],t.s),B.q)}}
+aq(){return new A.Gn(A.a(["images/img0.jpg","images/img1.jpg","videos/vid0.mp4","images/img2.jpg"],t.s),B.q)}}
 A.Gn.prototype={
 aE(){this.b8()
 A.CK(B.Fr)
@@ -55591,7 +55591,7 @@ r=new A.zo(this.e[r],new A.dv(r,t.p3))}return new A.qE(new A.rS(new A.rr(new A.a
 A.a_B.prototype={
 $0(){var s=this.a,r=s.r
 if(r!=null)r.b9(0)
-s.d=(s.d+1)%3
+s.d=(s.d+1)%4
 s.AB()},
 $S:0}
 A.a_x.prototype={
@@ -55600,7 +55600,7 @@ s.ah(new A.a_w(s))},
 $S:0}
 A.a_w.prototype={
 $0(){var s=this.a
-s.d=(s.d+1)%3
+s.d=(s.d+1)%4
 s.AB()},
 $S:0}
 A.a_A.prototype={
