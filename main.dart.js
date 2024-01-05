@@ -53589,7 +53589,7 @@ case 1:return A.I(p,r)}})
 return A.K($async$p8,r)}}
 A.RN.prototype={}
 A.qj.prototype={
-ao(){return new A.Fq(A.a(["images/img0.jpg","images/img1.jpg","videos/vid0.mp4","images/img2.jpg"],t.s),B.o)}}
+ao(){return new A.Fq(A.a(["videos/vid0.mp4"],t.s),B.o)}}
 A.Fq.prototype={
 aW(){this.bd()
 A.BU(B.Ew)
@@ -53617,7 +53617,7 @@ s=new A.yI(this.e[s],new A.es(s,t.p3))}return new A.qa(new A.ro(new A.o8(s,B.wL,
 A.YR.prototype={
 $0(){var s=this.a,r=s.r
 if(r!=null)r.ba(0)
-s.d=(s.d+1)%4
+s.d=(s.d+1)%1
 s.zJ()},
 $S:0}
 A.YN.prototype={
@@ -53626,7 +53626,7 @@ s.al(new A.YM(s))},
 $S:0}
 A.YM.prototype={
 $0(){var s=this.a
-s.d=(s.d+1)%4
+s.d=(s.d+1)%1
 s.zJ()},
 $S:0}
 A.YQ.prototype={
