@@ -55561,7 +55561,7 @@ case 1:return A.F(p,r)}})
 return A.H($async$pV,r)}}
 A.SM.prototype={}
 A.qO.prototype={
-aq(){return new A.Gp(A.a(["images/img0.jpg","images/img1.jpg","videos/vid0.mp4","images/img2.jpg"],t.s),B.q)}}
+aq(){return new A.Gp(A.a(["images/img0.jpg","videos/vid0.mp4","images/img2.jpg"],t.s),B.q)}}
 A.Gp.prototype={
 aE(){this.b9()
 A.CN(B.Ft)
@@ -55576,7 +55576,7 @@ if(r!=null)r.l()
 s.aT()},
 BB(){var s=this.w
 if(s!=null)s.b3(0)
-this.w=A.a9e(A.c3(0,0,10),new A.a_B(this))},
+this.w=A.a9e(A.c3(0,0,60),new A.a_B(this))},
 S5(){var s=this
 if(B.d.vK(s.e[s.d],".mp4"))s.ah(new A.a_C(s))
 else s.rN()},
@@ -55601,7 +55601,7 @@ $S:354}
 A.a_C.prototype={
 $0(){var s=this.a,r=s.r
 if(r!=null)r.b3(0)
-s.d=(s.d+1)%4
+s.d=(s.d+1)%3
 s.AB()},
 $S:0}
 A.a_x.prototype={
@@ -55610,7 +55610,7 @@ s.ah(new A.a_w(s))},
 $S:0}
 A.a_w.prototype={
 $0(){var s=this.a
-s.d=(s.d+1)%4
+s.d=(s.d+1)%3
 s.AB()},
 $S:0}
 A.a_A.prototype={
