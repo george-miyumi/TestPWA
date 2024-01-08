@@ -55561,7 +55561,7 @@ case 1:return A.F(p,r)}})
 return A.H($async$pV,r)}}
 A.SL.prototype={}
 A.qN.prototype={
-aq(){return new A.Go(A.a(["images/img0.jpg","videos/vid0.mp4"],t.s),B.q)}}
+aq(){return new A.Go(A.a(["images/img0.jpg","images/img1.jpg","videos/vid0.mp4"],t.s),B.q)}}
 A.Go.prototype={
 aE(){this.b8()
 A.CM(B.Ft)
@@ -55596,7 +55596,7 @@ $S:0}
 A.a_B.prototype={
 $0(){var s=this.a,r=s.r
 if(r!=null)r.b9(0)
-s.d=(s.d+1)%2
+s.d=(s.d+1)%3
 s.AC()},
 $S:0}
 A.a_x.prototype={
@@ -55605,7 +55605,7 @@ s.ah(new A.a_w(s))},
 $S:0}
 A.a_w.prototype={
 $0(){var s=this.a
-s.d=(s.d+1)%2
+s.d=(s.d+1)%3
 s.AC()},
 $S:0}
 A.a_A.prototype={
