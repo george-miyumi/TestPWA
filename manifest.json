@@ -1,11 +1,11 @@
 {
-    "name": "media_carousel",
-    "short_name": "media_carousel",
+    "name": "loop_app",
+    "short_name": "loop_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Loop project.",
     "orientation": "landscape",
     "prefer_related_applications": false,
     "icons": [
